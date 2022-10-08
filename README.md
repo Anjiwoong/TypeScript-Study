@@ -2,4 +2,4 @@
 
 | section |                                           project                                            |
 | :-----: | :------------------------------------------------------------------------------------------: |
-|   02    | [understanding-ts](https://github.com/Anjiwoong/TypeScript-Study/tree/main/understanding-ts) |
+| 02 ~ 03 | [understanding-ts](https://github.com/Anjiwoong/TypeScript-Study/tree/main/understanding-ts) |
