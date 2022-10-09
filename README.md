@@ -3,3 +3,4 @@
 | section |                                           project                                            |
 | :-----: | :------------------------------------------------------------------------------------------: |
 | 02 ~ 03 | [understanding-ts](https://github.com/Anjiwoong/TypeScript-Study/tree/main/understanding-ts) |
+|   05    |  [class-interface](https://github.com/Anjiwoong/TypeScript-Study/tree/main/class-interface)  |
