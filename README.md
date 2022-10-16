@@ -9,3 +9,4 @@
 |   08    |           [데코레이터](https://github.com/Anjiwoong/TypeScript-Study/tree/main/decorators)            |
 | 09 ~ 10 |            [drag-drop](https://github.com/Anjiwoong/TypeScript-Study/tree/main/drag-drop)             |
 |   11    |    [drag-drop 웹팩설정](https://github.com/Anjiwoong/TypeScript-Study/tree/main/drag-drop-webpack)    |
+|   12    |     [타사 라이브러리](https://github.com/Anjiwoong/TypeScript-Study/tree/main/library-typescript)     |
