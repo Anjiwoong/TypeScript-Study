@@ -7,4 +7,4 @@
 |   06    |    [advanced-type](https://github.com/Anjiwoong/TypeScript-Study/tree/main/advanced-type)    |
 |   07    |          [generic](https://github.com/Anjiwoong/TypeScript-Study/tree/main/generic)          |
 |   08    |       [decorators](https://github.com/Anjiwoong/TypeScript-Study/tree/main/decorators)       |
-| 08 ~ 09 |        [drag-drop](https://github.com/Anjiwoong/TypeScript-Study/tree/main/drag-drop)        |
+| 09 ~ 10 |        [drag-drop](https://github.com/Anjiwoong/TypeScript-Study/tree/main/drag-drop)        |
